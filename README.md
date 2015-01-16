@@ -1,3 +1,3 @@
 GCM-client-sample
 =================
-GCM send page : http://susemi99.kr:3002
+GCM send page : https://gcmsender.herokuapp.com
